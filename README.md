@@ -1,16 +1,26 @@
-## Hi there 👋
+# Juan Riquelme Martins Cavalcante
 
-<!--
-**JuanCavalcante7/JuanCavalcante7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence Student  
+💻 Aspiring Software Developer  
+📍 Brazil
 
-Here are some ideas to get you started:
+## About Me
+I am currently pursuing a degree in Artificial Intelligence and transitioning my career into software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background in 3D technical design strengthened my logical thinking, problem-solving skills, and attention to detail — all essential for programming.
+
+## Currently Learning
+- Java (OOP and logic building)
+- JavaScript (web development fundamentals)
+- Algorithms and problem solving
+
+## Goals
+- Become a professional developer
+- Work internationally (Canada)
+- Build real-world software solutions
+
+## Projects (In Progress)
+This GitHub documents my learning journey and practical projects as I grow into software development.
+
+---
+Always learning. Always building.
