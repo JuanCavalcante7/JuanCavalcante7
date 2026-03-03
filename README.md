@@ -1,91 +1,84 @@
-<h1 align="center">Hi 👋, I'm Juan Riquelme Martins Cavalcante</h1>
-<h3 align="center">Artificial Intelligence Student | Junior Developer in Progress</h3>
+<h1 align="center">Juan Riquelme Martins Cavalcante</h1>
+<h3 align="center">Artificial Intelligence Student | Aspiring Backend Developer</h3>
 
 ---
 
-## 📍 Location
-Fortaleza, Ceará, Brazil  
+## 👨‍💻 About Me
 
----
+Hi, my name is Juan, and I am currently pursuing a Bachelor's Degree in Artificial Intelligence.
 
-## 🚀 About Me
+I am transitioning into software development with a strong foundation in programming logic, operating systems, and technical problem-solving.
 
-I am currently pursuing a Bachelor's Degree in Artificial Intelligence and transitioning into professional software development.
-
-I have a strong foundation in logical reasoning, operating systems, and technical problem-solving. My background in 3D technical design helped me develop structured thinking, discipline, and attention to detail — all directly transferable to programming.
+My background in technical 3D design strengthened my analytical thinking, structured workflow, and attention to detail — skills directly transferable to backend development.
 
 I am actively preparing for junior-level opportunities in Brazil and internationally, especially in Canada.
 
 ---
 
-## 🎓 Education
+## 🛠 Tools & Technologies
 
-**Bachelor’s Degree in Artificial Intelligence (In Progress)**  
-• Coursework: Algorithms, Programming Logic, Data Structures, AI Fundamentals  
-• Active participation in academic projects and group-based software assignments  
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
-
-## 💻 Technical Skills
-
-### Programming
-- Java (OOP, logic building)
-- Python (fundamentals and scripting)
-- Currently studying:
-  - Node.js
-  - SQL & relational databases
-  - Backend development fundamentals
-
-### Operating Systems & Infrastructure
-- Advanced troubleshooting in Windows environments
-- Comfortable working with Linux systems
-- Familiar with command-line environments
-- Experience with remote desktop tools and remote system access
-- Understanding of computer hardware components
-
-### Tools & Technologies
-- Git & GitHub
-- Visual Studio Code
-- Microsoft Office Suite (Word, Excel, PowerPoint)
-- 3ds Max (Advanced)
-- CorelDRAW
+### 🚀 Currently Studying
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge)
 
 ---
 
-## 🧠 Core Strengths
+### 🖥 Operating Systems & Infrastructure
+![Windows](https://img.shields.io/badge/Windows_Troubleshooting-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=yellow)
+![Remote Access](https://img.shields.io/badge/Remote_Support-2C2C2C?style=for-the-badge)
+![Hardware](https://img.shields.io/badge/Hardware_Knowledge-555555?style=for-the-badge)
 
-- Strong problem-solving mindset
-- Analytical and logical thinking
-- Fast learner in technical environments
-- Team collaboration through academic group projects
-- Continuous improvement mentality
-- Daily English study and communication development
+---
+
+### 🧰 Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
-🔹 `java-logical-exercises`  
-Programming logic and algorithm practice using Java.
+🔹 **java-logical-exercises**  
+Logic building and algorithm practice using Java.
 
-🔹 `javascript-mini-projects`  
-Small functional applications built to apply front-end logic concepts.
+🔹 **javascript-mini-projects**  
+Small functional applications focused on DOM manipulation and logic.
 
-🔹 `ai-learning-journey`  
-Academic notes, experiments, and foundational AI implementations.
+🔹 **ai-learning-journey**  
+Academic notes and AI-based experiments.
 
 ---
 
-## 🌎 Languages
+## 🌍 Languages
 
 - Portuguese — Native  
-- English — Actively improving (daily study and communication practice)
+- English — Actively improving (daily study and communication development)
+
+---
+
+## 📈 Professional Strengths
+
+✔ Strong problem-solving mindset  
+✔ Logical and analytical thinking  
+✔ Comfortable with Windows troubleshooting and Linux environments  
+✔ Understanding of computer hardware  
+✔ Experience with remote system access  
+✔ Academic teamwork and group projects  
 
 ---
 
 ## 🎯 Career Goal
 
-To grow into a professional software developer by building real-world projects, writing clean and maintainable code, and contributing to technology-driven teams.
+To grow into a professional backend developer by building scalable systems, writing clean code, and contributing to technology-driven teams.
 
 ---
 
