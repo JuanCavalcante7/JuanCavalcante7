@@ -1,64 +1,92 @@
-<h1 align="center">Hi 👋, I'm Juan Riquelme</h1>
-<h3 align="center">Artificial Intelligence Student | Future Software Developer</h3>
+<h1 align="center">Hi 👋, I'm Juan Riquelme Martins Cavalcante</h1>
+<h3 align="center">Artificial Intelligence Student | Junior Developer in Progress</h3>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 Currently studying **Artificial Intelligence**
-- 💡 Transitioning my career into **Software Development**
-- 🧠 Strong background in logical thinking from 3D technical projects
-- 🎯 Focused on becoming a **Junior Developer**
-- 🌎 Looking for opportunities in **Brazil and Canada**
-- 📚 Currently learning **Java, JavaScript and Algorithms**
+## 📍 Location
+Fortaleza, Ceará, Brazil  
 
 ---
 
-### 🛠️ Tools I Have Worked With
+## 🚀 About Me
 
+I am currently pursuing a Bachelor's Degree in Artificial Intelligence and transitioning into professional software development.
+
+I have a strong foundation in logical reasoning, operating systems, and technical problem-solving. My background in 3D technical design helped me develop structured thinking, discipline, and attention to detail — all directly transferable to programming.
+
+I am actively preparing for junior-level opportunities in Brazil and internationally, especially in Canada.
+
+---
+
+## 🎓 Education
+
+**Bachelor’s Degree in Artificial Intelligence (In Progress)**  
+• Coursework: Algorithms, Programming Logic, Data Structures, AI Fundamentals  
+• Active participation in academic projects and group-based software assignments  
+
+---
+
+## 💻 Technical Skills
+
+### Programming
+- Java (OOP, logic building)
+- Python (fundamentals and scripting)
+- Currently studying:
+  - Node.js
+  - SQL & relational databases
+  - Backend development fundamentals
+
+### Operating Systems & Infrastructure
+- Advanced troubleshooting in Windows environments
+- Comfortable working with Linux systems
+- Familiar with command-line environments
+- Experience with remote desktop tools and remote system access
+- Understanding of computer hardware components
+
+### Tools & Technologies
+- Git & GitHub
+- Visual Studio Code
+- Microsoft Office Suite (Word, Excel, PowerPoint)
 - 3ds Max (Advanced)
 - CorelDRAW
-- Git & GitHub (learning workflow)
-- Visual Studio Code
 
 ---
 
-### 🚀 Tech Stack (Learning Phase)
+## 🧠 Core Strengths
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,git,github,vscode" />
-</p>
-
----
-
-### 📘 Currently Studying
-
-- Object-Oriented Programming (Java)
-- JavaScript for Web Development
-- Programming Logic and Data Structures
-- Foundations of Artificial Intelligence
+- Strong problem-solving mindset
+- Analytical and logical thinking
+- Fast learner in technical environments
+- Team collaboration through academic group projects
+- Continuous improvement mentality
+- Daily English study and communication development
 
 ---
 
-### 📂 Featured Projects
+## 📂 Featured Projects
 
-🔹 `java-logical-exercises` → Programming logic practice  
-🔹 `javascript-mini-projects` → Small functional web projects  
-🔹 `ai-learning-journey` → My AI academic exploration  
+🔹 `java-logical-exercises`  
+Programming logic and algorithm practice using Java.
+
+🔹 `javascript-mini-projects`  
+Small functional applications built to apply front-end logic concepts.
+
+🔹 `ai-learning-journey`  
+Academic notes, experiments, and foundational AI implementations.
 
 ---
 
-### 🌍 Languages
+## 🌎 Languages
 
 - Portuguese — Native  
-- English — Basic (Improving daily)
+- English — Actively improving (daily study and communication practice)
 
 ---
 
-### 📈 My Goal
+## 🎯 Career Goal
 
-To grow from a student into a professional developer by building real projects, writing clean code, and solving real-world problems.
+To grow into a professional software developer by building real-world projects, writing clean and maintainable code, and contributing to technology-driven teams.
 
 ---
 
-⭐ *This GitHub documents my learning journey — consistency over perfection.*
+⭐ This GitHub documents my continuous learning journey in Artificial Intelligence and Software Development.
