@@ -11,7 +11,6 @@ I am transitioning into software development with a strong foundation in program
 
 My background in technical 3D design strengthened my analytical thinking, structured workflow, and attention to detail — skills directly transferable to backend development.
 
-I am actively preparing for junior-level opportunities in Brazil and internationally, especially in Canada.
-
+I am actively preparing for junior-level opportunities in Brazil and internationally.
 ---
 
